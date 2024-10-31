@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shriya Sawashe!</h1>
-<h3 align="center">An aspiring Software Developer, who loves designing Innovative and User-Centric Softwares!</h3>
+<h3 align="center">An aspiring Software Developer, who loves to design Innovative and User-Centric Softwares!</h3>
 
 <br>
 

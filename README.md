@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently studying **Computer Science.**
 
-- 🌱 I’m currently learning **Python, GenAI, Deep Learning.**
-
 - 🤝 I’m looking to collaborate on **Full stack applications and AI-based projects.**
 
 - 💬 Tech Stacks I use **React, Node, Express, C++, SQL, MongoDB, Firebase.**
+
+- 🌱 I’m currently learning **Python, GenAI, Deep Learning.**
 
 - 📫 How to reach me **shriyasawashe2003@gmail.com.**
 
